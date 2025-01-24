@@ -8,7 +8,7 @@ export default function Home() {
     <div>
       <Header/>
       <Hero/>
-      <Button>hello</Button>
+      
     </div>
   );
 }

@@ -11,8 +11,9 @@ export default {
   		colors: {
   			background: 'hsl(var(--background))',
   			foreground: 'hsl(var(--foreground))',
-  			sage: '#A5B68D',
-  			button: '#E7CCCC',
+  			sage: '#243642',
+  			button: '#387478',
+  			text: '#243642',
   			card: {
   				DEFAULT: 'hsl(var(--card))',
   				foreground: 'hsl(var(--card-foreground))'
